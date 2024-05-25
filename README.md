@@ -8,7 +8,8 @@
   <img src="https://github.com/susdulal123/susdulal123/assets/170832348/a2174b49-f115-4c91-b2f7-3f41fc15bd76"/>
 </p>
 
-<!-- <h3 align="center">I'm Sushil, Frontend developer</h3>
+<!-- 
+<h3 align="center">I'm Sushil, Frontend developer</h3>
 
  <h3 align="center">Find me in:</h3>
 <p align="center">
@@ -21,7 +22,7 @@
   <a title ="LinkedIn" href="https://linkedin.com/in/sushildulal123" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sushildulal123" height="30" width="70"/>
   </a>
-</p> -->
+</p> 
 
 <h3 align="center">Languages and Tools 🛠👨‍💻:</h3>
 <p align="center">
@@ -50,4 +51,5 @@
     <img height="40" width="40" alt="Tailwind" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/> 
   </a>
 </p>
+-->
 
