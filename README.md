@@ -5,7 +5,7 @@
 <h1 align="center">🤗 Hello and Welcome!</h1>
 
 <p title="gif" align="center">
-  <img src="https://github.com/sdulal123/sdulal123/assets/86375908/a4bfd187-404b-4088-9517-30a5363037dc"/>
+  <img src="https://github.com/susdulal123/susdulal123/assets/170832348/a2174b49-f115-4c91-b2f7-3f41fc15bd76"/>
 </p>
 
 <h3 align="center">I'm Sushil, Frontend developer</h3>
