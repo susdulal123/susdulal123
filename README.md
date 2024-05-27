@@ -25,7 +25,7 @@
 </p>
 -->
 
-<h3 align="center">Languages and Tools 🛠👨‍💻:</h3>
+<h3 align="center">Languages and Tools I use 🛠👨‍💻:</h3>
 <p align="center">
   <a title ="Git" href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img height="40" width="40" alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
