@@ -47,5 +47,5 @@
 
 ## <br/>
 
-![snake animation](https://github.com/sdulal123/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/sdulal123/sdulal123/blob/output/github-contribution-grid-snake.svg)
 <!-- This readme was created by Sushil Dulal - https://github.com/sdulal123 -->
