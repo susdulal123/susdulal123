@@ -44,4 +44,8 @@
   <code><img title="TypeScript" width="40" height="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
   <br />
 </p>
+
+## <br/>
+
+![Snake animation](https://github.com/sdulal123/sdulal123/blob/output/github-contribution-grid-snake.svg)
 <!-- This readme was created by Sushil Dulal - https://github.com/sdulal123 -->
