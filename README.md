@@ -30,7 +30,7 @@
 
   <!-- Sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
   <code><img title="Assembly" width="40" height="40" src="https://github.com/sudulal123/sudulal123/assets/86375908/6ed576ac-2de7-4dec-81d8-710df51e2f88"></code>
-  <code><img title="C Lang" width="40" height="40" src="https://www.vectorlogo.zone/logos/open-std_c/open-std_c-icon~alt.svg"/></code>
+  <code><img title="C Lang" width="40" height="40" src="https://www.vectorlogo.zone/logos/open-std_c/open-std_c-icon~alt2.svg"/></code>
   <code><img title="C++ Lang" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
   <code><img title="Java" width="40" height="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
   <br/>
