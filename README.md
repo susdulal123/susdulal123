@@ -24,7 +24,7 @@
 ## Tools:
 <p>
   <a href="https://github.com/sdulal123/">
-    <img width="55%" align="right" alt="sdulal123's github stats" src="https://github-readme-stats.vercel.app/api?username=sdulal123&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="sdulal123's github stats" src="https://github-readme-stats.vercel.app/api?username=sdulal123&theme=bear&show_icons=true&hide_border=true" />
   </a>
 
   <!-- Sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
