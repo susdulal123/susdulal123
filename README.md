@@ -28,8 +28,10 @@
 
 ## Stats:
 <p>
-  <a href="https://github.com/sudulal123/">
-    <img width="50%" height="200" align="right" alt="sdulal123's github stats" src="https://github-readme-stats.vercel.app/api?username=sdulal123&theme=tokyonight&show_icons=true" />
+  <a align="left" href="https://github.com/sdulal123/">
+    <img width="50%" height="200" align="right" alt="sudulal123's github stats" src="https://github-readme-stats.vercel.app/api?username=sdulal123&theme=tokyonight&show_icons=true" />
+  </a>
+  <a align="right" href="https://github.com/sdulal123/">
     <img 
         height="200" 
         alt="languages graph" 
@@ -38,5 +40,4 @@
 </p>
 
 ## <br/>
-
 <!-- This readme was created by Sushil Dulal - https://github.com/sdulal123 -->
