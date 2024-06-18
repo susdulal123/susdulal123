@@ -1,4 +1,4 @@
-<!-- Visit counter -->
+<!-- Page Reloaded counter -->
 <p title="visitCounter" align="center"> 
   <img alt="sdulal123" src="https://komarev.com/ghpvc/?username=sdulal123&color=brightgreen&style=plastic&label=PAGE+RELOADED"/>
 </p>
@@ -10,8 +10,8 @@
 
 <!-- Website to generate badges: https://shields.io/ -->
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushildulal123@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushildulal123/)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sushildulal123@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushildulal123/)
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/sdstudio420/) -->
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://codechef.com/sdulal123)
@@ -44,4 +44,4 @@
   <code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
   <br />
 </p>
-<!-- This readme was created by Sushil Dulal - https://github.com/sudulal123 -->
+<!-- This readme was created by Sushil Dulal - https://github.com/sdulal123 -->
