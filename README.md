@@ -28,19 +28,19 @@
   </a>
 
   <!-- Sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
-  <code><img width="30" height="30" hover="assembly" src="https://github.com/sudulal123/sudulal123/assets/86375908/6ed576ac-2de7-4dec-81d8-710df51e2f88"></code>
-  <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/open-std_c/open-std_c-icon~alt.svg"/></code>
-  <code><img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-  <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
+  <code><img width="40" height="40" hover="assembly" src="https://github.com/sudulal123/sudulal123/assets/86375908/6ed576ac-2de7-4dec-81d8-710df51e2f88"></code>
+  <code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/open-std_c/open-std_c-icon~alt.svg"/></code>
+  <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+  <code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
   <br/>
   <br/>
-  <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-  <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></code>
-  <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
+  <code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
+  <code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></code>
+  <code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
   <br />
   <br />
-  <code><img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-  <code><img width="30" height="30" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
+  <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+  <code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
   <br />
 </p>
 <!-- This readme was created by Sushil Dulal - https://github.com/sudulal123 -->
