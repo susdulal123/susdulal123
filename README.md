@@ -33,7 +33,7 @@
         height="150" 
         width="50%" 
         alt="languages graph" 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=sdulal123&locale=en&hide_title=false&layout=compact&card_width=200&langs_count=5&theme=merko&hide_border=false"/>
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=sdulal123&locale=en&hide_title=false&layout=compact&card_width=200&langs_count=8&theme=merko&hide_border=false"/>
       <img 
         height="150" 
         alt="statsgraph" 
