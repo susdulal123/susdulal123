@@ -29,22 +29,22 @@
 &nbsp;
 
 ## 📊STATS📈
-<p>
+<div>
   <a href="https://github.com/sdulal123/">
     <img 
-      width="50%" 
-      height="200" 
+      height="200em" 
       align="right" 
-      alt="sdulal123's github stats" 
-      src="https://github-readme-stats.vercel.app/api?username=sdulal123&theme=tokyonight&show_icons=true" />
+      alt="sudulal123's github stats" src="https://github-readme-stats.vercel.app/api?username=sdulal123&theme=tokyonight&show_icons=true"
+    />
   </a>
   <a href="https://github.com/sdulal123/">
-    <img 
-        height="200" 
+    <img  
+        height="200em" 
         alt="languages graph" 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=sudulal123&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=10&theme=merko&hide_border=false"/>
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=sudulal123&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=8&theme=merko&hide_border=false"
+    />
   </a>
-</p>
+</div>
 
 ## <br/>
 <!-- This readme was created by Sushil Dulal - https://github.com/sdulal123 -->
