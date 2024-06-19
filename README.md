@@ -30,7 +30,7 @@
 
 ## 📊STATS📈
 <div align="center">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sdulal123&layout=compact&langs_count=10&theme=merko">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sdulal123&layout=compact&langs_count=1&theme=merko">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sdulal123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
 </div>
 
