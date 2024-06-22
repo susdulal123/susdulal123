@@ -4,15 +4,16 @@
 </p>
 
 <!-- Title -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=5DF7BD&center=true&vCenter=true&random=false&width=435&lines=Hello+and+welcome!!!+🤗)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=5DF7BD&center=true&vCenter=true&random=false&width=435&lines=Hello+and+welcome!!!+🙏🏻)](https://git.io/typing-svg)
 ##
 <img align="right" src="https://github.com/sdulal123/sdulal123/assets/86375908/a4bfd187-404b-4088-9517-30a5363037dc"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=53D3F7&center=true&vCenter=true&random=false&width=435&lines=I+am+Sushil%2C+a+software+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=53D3F7&center=true&vCenter=true&random=false&width=435&lines=I+am+Sushil%2C+a+software+developer+👨🏻‍💻)](https://git.io/typing-svg)
  
   <!-- Sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
   ### 📐TOOLS🛠
   <div align="left">
+    <code><img title="Quantum Computing" width="40" height="40" src="https://github.com/sdulal123/sdulal123/assets/170832348/3cf96d9e-cbbd-47f2-96cf-06da53f6bc19"/></code>
     <code><img title="Assembly" width="40" height="40" src="https://github.com/sudulal123/sudulal123/assets/86375908/6ed576ac-2de7-4dec-81d8-710df51e2f88"></code>
     <code><img title="C Lang" width="40" height="40" src="https://www.vectorlogo.zone/logos/open-std_c/open-std_c-icon~alt2.svg"/></code>
     <code><img title="C++ Lang" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
@@ -20,7 +21,7 @@
     <code><img title="Haskell" width="40" height="40" src="https://www.vectorlogo.zone/logos/haskell/haskell-icon.svg"></code>
     <code><img title="Java" width="40" height="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
     <code><img title="Python" width="40" height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-    <code><img title="Rust" width="40" height="40" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg"></code>
+    <code><img title="Rust" width="40" height="40" src="https://github.com/sdulal123/sdulal123/assets/170832348/ebbd90a2-22cc-44dc-8a3f-51282ec0c130"></code>
     <code><img title="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
     <code><img title="TypeScript" width="40" height="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
   </div>
