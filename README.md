@@ -13,7 +13,7 @@
   <!-- Sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
   ### 📐TOOLS🛠
   <div align="left">
-    <code><img title="Quantum Computing" width="35" height="35" src="https://github.com/sdulal123/sdulal123/assets/170832348/3cf96d9e-cbbd-47f2-96cf-06da53f6bc19"/></code>
+    <code><img title="Quantum Computing" width="35" height="35" src="https://github.com/sdulal123/sdulal123/assets/170832348/52fe50d3-1eae-4789-aa18-acedea153b29"/></code>
     <code><img title="Assembly" width="35" height="35" src="https://github.com/sudulal123/sudulal123/assets/86375908/6ed576ac-2de7-4dec-81d8-710df51e2f88"></code>
     <code><img title="C Lang" width="35" height="35" src="https://www.vectorlogo.zone/logos/open-std_c/open-std_c-icon~alt2.svg"/></code>
     <code><img title="C++ Lang" width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
