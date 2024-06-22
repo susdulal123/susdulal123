@@ -18,6 +18,7 @@
     <code><img title="C Lang" width="35" height="35" src="https://www.vectorlogo.zone/logos/open-std_c/open-std_c-icon~alt2.svg"/></code>
     <code><img title="C++ Lang" width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
     <code><img title="C# Lang" width="35" height="35" src="https://github.com/sdulal123/sdulal123/assets/170832348/45944828-9fc1-4dd2-93da-5b9f7dfdf5b9"></code>
+    <code><img title="Fortran" width="35" height="35" src="https://user-images.githubusercontent.com/25181517/192106356-07c248b7-9c7c-40bd-a202-f7caf5d0b1bc.png"></code>
     <code><img title="Haskell" width="35" height="35" src="https://www.vectorlogo.zone/logos/haskell/haskell-icon.svg"></code>
     <code><img title="Java" width="35" height="35" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
     <code><img title="Python" width="35" height="35" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
