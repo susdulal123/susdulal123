@@ -13,18 +13,18 @@
   <!-- Sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
   ### 📐TOOLS🛠
   <div align="left">
-    <code><img title="Quantum Computing" width="35" height="35" src="https://github.com/sdulal123/sdulal123/assets/170832348/52fe50d3-1eae-4789-aa18-acedea153b29"/></code>
-    <code><img title="Assembly" width="35" height="35" src="https://github.com/sudulal123/sudulal123/assets/86375908/6ed576ac-2de7-4dec-81d8-710df51e2f88"></code>
-    <code><img title="C Lang" width="35" height="35" src="https://www.vectorlogo.zone/logos/open-std_c/open-std_c-icon~alt2.svg"/></code>
-    <code><img title="C++ Lang" width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-    <code><img title="C# Lang" width="35" height="35" src="https://github.com/sdulal123/sdulal123/assets/170832348/45944828-9fc1-4dd2-93da-5b9f7dfdf5b9"></code>
-    <code><img title="Fortran" width="35" height="35" src="https://user-images.githubusercontent.com/25181517/192106356-07c248b7-9c7c-40bd-a202-f7caf5d0b1bc.png"></code>
-    <code><img title="Haskell" width="35" height="35" src="https://www.vectorlogo.zone/logos/haskell/haskell-icon.svg"></code>
-    <code><img title="Java" width="35" height="35" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
-    <code><img title="Python" width="35" height="35" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-    <code><img title="Rust" width="35" height="35" src="https://github.com/sdulal123/sdulal123/assets/170832348/ebbd90a2-22cc-44dc-8a3f-51282ec0c130"></code>
-    <code><img title="JavaScript" width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-    <code><img title="TypeScript" width="35" height="35" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
+    <code><img title="Quantum Computing" height="30" width="30" src="https://github.com/sdulal123/sdulal123/assets/170832348/52fe50d3-1eae-4789-aa18-acedea153b29"/></code>
+    <code><img title="Assembly" height="30" width="30" src="https://github.com/sudulal123/sudulal123/assets/86375908/6ed576ac-2de7-4dec-81d8-710df51e2f88"></code>
+    <code><img title="C Lang" height="30" width="30" src="https://www.vectorlogo.zone/logos/open-std_c/open-std_c-icon~alt2.svg"/></code>
+    <code><img title="C++ Lang" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+    <code><img title="C# Lang" height="30" width="30" src="https://github.com/sdulal123/sdulal123/assets/170832348/45944828-9fc1-4dd2-93da-5b9f7dfdf5b9"></code>
+    <code><img title="Fortran" height="30" width="30" src="https://user-images.githubusercontent.com/25181517/192106356-07c248b7-9c7c-40bd-a202-f7caf5d0b1bc.png"></code>
+    <code><img title="Haskell" height="30" width="30" src="https://github.com/sdulal123/sdulal123/assets/170832348/7e04ef65-72a8-4874-af97-b6ec77f043d9"></code>
+    <code><img title="Java" height="30" width="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
+    <code><img title="Python" height="30" width="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
+    <code><img title="Rust" height="30" width="30" src="https://github.com/sdulal123/sdulal123/assets/170832348/ebbd90a2-22cc-44dc-8a3f-51282ec0c130"></code>
+    <code><img title="JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+    <code><img title="TypeScript" height="30" width="30" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
   </div>
 </p>
 
